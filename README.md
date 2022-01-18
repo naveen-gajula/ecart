@@ -1,10 +1,10 @@
 # ecart
 
 #prerequisites
-1)JDK 1.8
-2)maven
-3)Git
-4)Postman
+1.JDK 1.8
+2.maven
+3.Git
+4.Postman
 
 # clone the project
 git clone ecart
