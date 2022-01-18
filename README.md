@@ -1,13 +1,13 @@
 # ecart
 
 #prerequisites
-1.JDK 1.8
-2.maven
-3.Git
-4.Postman
+- JDK 1.8
+- maven
+- Git
+- Postman
 
 # clone the project
-git clone ecart
+git clone ecart {url}
 
 # Navigate to project directory and open cmd
 run command 'mvn spring-boot:run'
